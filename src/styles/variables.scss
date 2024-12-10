@@ -1,0 +1,83 @@
+// 颜色系统
+:root {
+  // 主题色
+  --color-primary: #946CE6;
+  --color-primary-light: #B08EEB;
+  --color-primary-dark: #7849E1;
+
+  // 辅助色
+  --color-secondary-pink: #FFB8B8;
+  --color-secondary-blue: #B8E4FF;
+
+  // 文字色
+  --color-text-primary: #333333;
+  --color-text-secondary: #666666;
+  --color-text-tertiary: #999999;
+
+  // 背景色
+  --color-bg-primary: #FFFFFF;
+  --color-bg-secondary: #F8F9FA;
+  --color-bg-tertiary: #F2F3F5;
+
+  // 功能色
+  --color-success: #67C23A;
+  --color-warning: #E6A23C;
+  --color-danger: #F56C6C;
+  --color-info: #909399;
+
+  // 边框色
+  --color-border: #DCDFE6;
+  --color-border-light: #E4E7ED;
+  --color-border-lighter: #EBEEF5;
+
+  // 阴影
+  --box-shadow-light: 0 2px 4px rgba(0,0,0,0.1);
+  --box-shadow-medium: 0 2px 4px rgba(0,0,0,0.1),
+                      0 4px 8px rgba(0,0,0,0.05);
+  --box-shadow-heavy: 0 4px 12px rgba(0,0,0,0.1),
+                     0 8px 16px rgba(0,0,0,0.05);
+
+  // 字体
+  --font-family-base: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --font-family-heading: 'PingFang SC', 'Microsoft YaHei', sans-serif;
+
+  // 字号
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+  --font-size-2xl: 24px;
+  --font-size-3xl: 30px;
+  --font-size-4xl: 36px;
+  --font-size-5xl: 48px;
+
+  // 行高
+  --line-height-tight: 1.25;
+  --line-height-normal: 1.5;
+  --line-height-relaxed: 1.75;
+
+  // 间距
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+  --spacing-2xl: 48px;
+  --spacing-3xl: 64px;
+
+  // 圆角
+  --border-radius-sm: 4px;
+  --border-radius-md: 8px;
+  --border-radius-lg: 12px;
+  --border-radius-xl: 16px;
+  --border-radius-full: 9999px;
+
+  // 动画
+  --transition-fast: 0.2s;
+  --transition-normal: 0.3s;
+  --transition-slow: 0.4s;
+  --ease-in-out: cubic-bezier(0.4, 0, 0.2, 1);
+  --ease-out: cubic-bezier(0, 0, 0.2, 1);
+  --ease-in: cubic-bezier(0.4, 0, 1, 1);
+}

@@ -1,0 +1,29 @@
+<svg width="240" height="120" viewBox="0 0 240 120">
+  <g transform="translate(70,20)">
+    <!-- AI图标 -->
+    <path d="M50 20
+             L80 50 L50 80 L20 50 Z"
+          fill="none"
+          stroke="#B8E4FF"
+          stroke-width="2"/>
+
+    <!-- 文字 -->
+    <text x="50" y="100"
+          text-anchor="middle"
+          font-family="Arial"
+          font-size="14"
+          fill="#333333">
+      AI Tech Institute
+    </text>
+
+    <!-- ATI文字 -->
+    <text x="50" y="60"
+          text-anchor="middle"
+          font-family="Arial"
+          font-weight="bold"
+          font-size="18"
+          fill="#B8E4FF">
+      ATI
+    </text>
+  </g>
+</svg>

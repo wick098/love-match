@@ -1,0 +1,32 @@
+<svg width="240" height="120" viewBox="0 0 240 120">
+  <g transform="translate(70,20)">
+    <!-- 盾牌图标 -->
+    <path d="M50 20
+             L80 30 L80 60
+             C 80 80, 50 90, 50 90
+             C 50 90, 20 80, 20 60
+             L20 30 Z"
+          fill="none"
+          stroke="#7849E1"
+          stroke-width="2"/>
+
+    <!-- 文字 -->
+    <text x="50" y="100"
+          text-anchor="middle"
+          font-family="Arial"
+          font-size="14"
+          fill="#333333">
+      Data Security Alliance
+    </text>
+
+    <!-- DSA文字 -->
+    <text x="50" y="60"
+          text-anchor="middle"
+          font-family="Arial"
+          font-weight="bold"
+          font-size="18"
+          fill="#7849E1">
+      DSA
+    </text>
+  </g>
+</svg>

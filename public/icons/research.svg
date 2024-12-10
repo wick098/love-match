@@ -1,0 +1,11 @@
+<svg width="64" height="64" viewBox="0 0 64 64">
+  <circle cx="28" cy="28" r="16"
+          fill="none"
+          stroke="#946CE6"
+          stroke-width="2"/>
+  <line x1="40" y1="40" x2="52" y2="52"
+        stroke="#946CE6"
+        stroke-width="4"
+        stroke-linecap="round"/>
+  <circle cx="28" cy="28" r="4" fill="#946CE6"/>
+</svg>

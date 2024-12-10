@@ -1,0 +1,13 @@
+<svg width="64" height="64" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="30" fill="none" stroke="#946CE6" stroke-width="2"/>
+  <path d="M32 12
+           C 42 12, 50 20, 50 30
+           C 50 40, 42 48, 32 48
+           C 22 48, 14 40, 14 30
+           C 14 20, 22 12, 32 12
+           Z"
+        fill="none"
+        stroke="#946CE6"
+        stroke-width="2"/>
+  <circle cx="32" cy="32" r="4" fill="#946CE6"/>
+</svg>

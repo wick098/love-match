@@ -1,0 +1,29 @@
+{
+  "name": "love-match",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "@vueuse/motion": "^2.2.6",
+    "dayjs": "^1.11.13",
+    "echarts": "^5.5.1",
+    "element-plus": "^2.9.0",
+    "love-match": "file:",
+    "pinia": "^2.3.0",
+    "qrcode": "^1.5.4",
+    "vue": "^3.4.21",
+    "vue-i18n": "^9.14.2",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "sass": "^1.82.0",
+    "vite": "^5.0.0"
+  }
+}
